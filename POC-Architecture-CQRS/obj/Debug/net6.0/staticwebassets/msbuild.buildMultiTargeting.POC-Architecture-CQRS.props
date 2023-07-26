@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\POC-Architecture-CQRS.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\bin\Debug\net6.0\POC-Architecture-CQRS.Shared.deps.json
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\bin\Debug\net6.0\POC-Architecture-CQRS.Shared.dll
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\bin\Debug\net6.0\POC-Architecture-CQRS.Shared.pdb
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.csproj.AssemblyReference.cache
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.AssemblyInfoInputs.cache
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.AssemblyInfo.cs
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.dll
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\refint\POC-Architecture-CQRS.Shared.dll
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.pdb
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\ref\POC-Architecture-CQRS.Shared.dll
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\bin\Debug\net6.0\POC-Architecture-CQRS.Shared.runtimeconfig.json
+C:\Users\sdioum\Samay Yeuff\Projects\App-Dotnet\POC-Architecture-CQRS\POC-Architecture-CQRS.Shared\obj\Debug\net6.0\POC-Architecture-CQRS.Shared.genruntimeconfig.cache
